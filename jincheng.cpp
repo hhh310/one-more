@@ -15,7 +15,7 @@ int main (){
 }
 	else{
 		//子进程
-		sleep(30);
+		sleep(5);
 		exit(0);	
 		}
 }
